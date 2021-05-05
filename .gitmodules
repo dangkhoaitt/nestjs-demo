@@ -1,0 +1,6 @@
+[submodule "test-auth"]
+	path = test-auth
+	url = git@github.com:dangkhoaitt/test-auth.git
+[submodule "nestjs-guard"]
+	path = nestjs-guard
+	url = git@github.com:dangkhoaitt/nestjs-guard.git
